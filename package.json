@@ -1,0 +1,23 @@
+{
+  "name": "custom-messages",
+  "version": "1.0.0",
+  "description": "this package contains all our response messages",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lacasera/custom-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lacasera/custom-package/issues"
+  },
+  "homepage": "https://github.com/lacasera/custom-package#readme",
+  "dependencies": {
+    "webpack": "4.25.1",
+    "webpack-cli": "3.1.2"
+  }
+}
